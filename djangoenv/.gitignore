@@ -21,9 +21,8 @@ djangoenv/
 *.sqlite3
 db.sqlite3
 
-# Django static and media directories
+# Django static directory
 static/
-media/
 
 # Django secret key and settings
 *.env
